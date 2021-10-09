@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sagaram108
-- 👀 I’m interested in java tech prog.
-- 🌱 I’m currently learning servlets, jdbc, dsa
+- 👋 Hi, I’m @sagarv1
+- 👀 I’m interested in Data structure and algorithms
+- 🌱 I’m currently absorbing Development in web
 - 📫 contact me on sag9315@gmail.com
